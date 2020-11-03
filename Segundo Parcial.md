@@ -1,5 +1,5 @@
 
-#Segundo Parcial
+### Segundo Parcial ###
 
 Se cuentan con las siguientes aplicaciones y componentes ya desarrollados y funcionales de forma local, quiere decir en nuestro equipo personal:
 
@@ -25,9 +25,19 @@ Segundo Paso - Nube
 	4. Montaje de Contenedor
 	5. Configuración de aplicaciones
 
+Tercer Paso - Seguridad y Redundancia
 
-#Entrega Segundo Parcial
-	Se deberá elaborar un documento por persona, de la realización de cada una de las actividades mencionados con anterioridad con imagen de captura y descripción de actividad realizada, siguiente la siguiente estructura de contenido
+	1. Configuración de firewall (Puertos e Ip's)
+	2. Creación de Instantánea de Web
+	3. Creación de segunda instancia de Web
+	4. Creación de subdominio para Web
+	5. Creación de Balanceador de Carga
+	6. Asignación de instancias a blanceador de carga
+	7. Creación de certificado SSL
+
+
+## Entrega Segundo Parcial - 10 de Noviembre ###
+	Se deberá elaborar un documento por persona, de la realización de cada una de las actividades mencionados con anterioridad con imagen de captura y descripción de actividad realizada, siguiendo la siguiente estructura de contenido
 
 	1. Objetivo del documento
 	2. Alcance del documento
@@ -45,4 +55,13 @@ Segundo Paso - Nube
 			3.2.3. Clonación de repositorio
 			3.2.4. Montaje de Contenedor
 			3.2.5. Configuración de aplicaciones
+
+		3.3. Seguridad y Redundancia
+			3.3.1. Configuración de firewall (Puertos e Ip's)
+			3.3.2. Creación de Instantánea de Web
+			3.3.3. Creación de segunda instancia de Web
+			3.3.4. Creación de subdominio para Web
+			3.3.5. Creación de Balanceador de Carga
+			3.3.6. Asignación de instancias a blanceador de carga
+			3.3.7. Creación de certificado SSL
 	4. Resumen
